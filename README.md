@@ -1,6 +1,10 @@
 # ✈️ Proyecto 4: SQL - Análisis de Base de Datos de Vuelos
 
-¡Bienvenido a mi repositorio del **Proyecto 4 de SQL**! 🌟 En este desafío, he puesto en práctica mis habilidades de **comunicación visual** y **organización de información** para extraer datos valiosos de una base de datos de reservas aéreas.
+![SQL](https://img.shields.io/badge/SQL-Relational-blue?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgAdmin4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Este repositorio contiene la resolución técnica del **Proyecto 4 de SQL**, enfocado en la extracción y análisis de datos de una base de datos de reservas aéreas. A través de diversas consultas, se exploran habilidades de organización de información y comunicación visual para obtener resultados precisos y eficientes.
 
 ---
 
@@ -45,3 +49,11 @@ A continuación, se presenta un resumen de los retos resueltos en el archivo `In
 * `README.md`: Descripción detallada del proyecto (este archivo).
 
 ---
+
+## ✒️ Autor
+
+**Sergio Valiente**
+* [Perfil de GitHub](https://github.com/servado07)
+
+---
+*Este proyecto forma parte del Máster en Ciberseguridad (UCAM) / ThePower Pometeo.*
